@@ -1,6 +1,6 @@
 # Desafio Indicium - Ciência de Dados
  
-Esse é um repositório em que se encontra todo o desafio proposto pela Indicium para Ciência de Dados. É um desafio em que "Você foi alocado(a) em um time da Indicium que está trabalhando atualmente junto a um cliente no processo de criação de uma plataforma de aluguéis temporários na cidade de Nova York.". Com isso, temos um dataset com vários registros de anúncios de apartamentos e casas.
+Esse é um repositório em que se encontra todo o desafio proposto pela Indicium para Ciência de Dados. É um desafio em que "Você foi alocado(a) em um time da Indicium que está trabalhando atualmente junto a um cliente no processo de criação de uma plataforma de aluguéis temporários na cidade de Nova York.". Com isso, temos um [dataset](https://github.com/davirpp/Desafio-Indicium/blob/main/teste_indicium_precificacao.csv) com vários registros de anúncios de apartamentos e casas.
 
 Assim, foi realizado uma Análise Exploratória dos Dados e também foi desenvolvido modelos para previsão do preço de aluguel baseado nas features do problema.
 
